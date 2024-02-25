@@ -1,4 +1,4 @@
-# Meme-generator Chrome Extension
+# Meme-generator (Google-Chrome Extension)
 
 ## Overview
 
